@@ -1,0 +1,21 @@
+# Code Composer Studio / Eclipse Ignore Rules
+Debug/
+Release/
+*.obj
+*.out
+*.map
+*.hex
+*.bin
+*.d
+*.mk
+*.la
+*.lo
+.settings/
+*.tmp
+*.bak
+*.swp
+
+# Metadata
+# .cproject
+# .project
+# .ccsproject
