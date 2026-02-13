@@ -1,6 +1,4 @@
-/*
 // This code has been changed for bldc motor test by Nuvo
-
 
 #include <msp430.h>
 #include <stdint.h>
