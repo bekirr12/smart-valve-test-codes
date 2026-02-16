@@ -58,6 +58,7 @@ void delay_ms(uint16_t ms) {
 }
 
 void init_clock_external_8MHz(void){
+    FRCTL0 = FRCTLPW | NWAITS_1;
     // Set cyrsyal pins PJ.6 ve PJ.7 -> HFXT
     PJSEL0 |= BIT6 | BIT7;
     PJSEL1 &= ~(BIT6 | BIT7);
