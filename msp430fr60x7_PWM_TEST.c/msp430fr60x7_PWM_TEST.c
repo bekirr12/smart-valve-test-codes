@@ -7,6 +7,8 @@
 // PW_L2 p2.5/ta4.0 (eski)
 
 #include <msp430.h>
+#include <stdint.h>
+#include <stdbool.h>
 
 #define PWM_PERIOD 40   // 8MHz / 200kHz = 40 Tick
 #define DEAD_TIME  3    // ~187ns
