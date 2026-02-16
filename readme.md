@@ -6,6 +6,8 @@ includes these test:
 
 * blynk led test
 * button test
+* adc test
+* pwm test
 * motor test
 * mppt test
 * rs485 test (communication test)
