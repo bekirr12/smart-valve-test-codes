@@ -1,0 +1,16 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "msp430fr60x7_adc12_01.c",
+      "type": "ccs-debug",
+      "request": "launch",
+      "projectInfo": {
+        "name": "msp430fr60x7_adc12_01.c",
+        "resourceId": "/msp430fr60x7_adc12_01.c"
+      }
+    }
+  ]
+}

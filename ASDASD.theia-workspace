@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "file:///c%3A/Users/Nuvo_Bekir/workspace_ccstheia"
+    },
+    {
+      "path": "msp430fr60x7_PWM_TEST.c"
+    },
+    {
+      "path": "msp430fr60x7_MOTOR_TEST.c"
+    },
+    {
+      "path": "msp430fr60x7_ADC_TEST.c"
+    }
+  ],
+  "settings": {}
+}
