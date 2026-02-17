@@ -2,9 +2,7 @@ This files are test codes for smart-valve
 
 includes these test:
 
-
-
-* blynk led test
+* led test
 * button test
 * adc test
 * pwm test
@@ -13,4 +11,3 @@ includes these test:
 * rs485 test (communication test)
 * ultrasonic sensor test
 * hmi screen test
-* low power test
